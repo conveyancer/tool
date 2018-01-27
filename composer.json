@@ -23,7 +23,7 @@
     {
         "psr-4":
         {
-            "conveyancer\\tool\\": "src",
+            "conveyancer\\tool\\": "src"
         }
     }
 }
